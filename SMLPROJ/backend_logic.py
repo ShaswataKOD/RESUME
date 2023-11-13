@@ -1,7 +1,5 @@
 """
-##  make a random number generator using 
-## make a todo list 
-## make a basic chatbot using NTLK
+##  make a random number generator using python and flask
 """ 
 
 # Random number generator
